@@ -1585,6 +1585,16 @@ responsive
     margin-top: 30px;
   }
 }
+footer a{
+  color: #FFF;
+  text-decoration: none;
+  transition: all 1s ease;
+}
+footer a:hover{
+  color: #FFF;
+  text-decoration: none;
+  font-size: 15px;
+}
 
 
 
